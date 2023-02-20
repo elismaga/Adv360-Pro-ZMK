@@ -44,7 +44,7 @@
                 &kp ESCAPE   AS(Q)     AS(W)     AS(E)      AS(R)   AS(T)                &none                                                                             &none   AS(Y)     AS(U)      AS(I)     AS(O)     AS(P)   AS(BSLH)
                 AS(GRAVE)   AS(A)     AS(S)     AS(D)      AS(F)   AS(G)                &none      &kp LCTRL  &kp LALT                    &kp C_VOLUME_UP  &kp RCTRL      &none   AS(H)     AS(J)      AS(K)     AS(L)  AS(SEMI)    AS(SQT)
                 AS(EQUAL)   AS(Z)     AS(X)     AS(C)      AS(V)   AS(B)                &none          &none  &kp HOME   &none   &none  &kp C_VOLUME_DOWN      &none      &none   AS(N)     AS(M)  AS(COMMA)   AS(DOT)    &kp UP   AS(FSLH)
-                &none   &none  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE  &kp BACKSPACE  &kp LCMD                           &kp RCMD    &kp TAB  &kp ENTER          AS(LBKT)   AS(RBKT)  &kp LEFT  &kp DOWN  &kp RIGHT
+                &kp LEFT_SHIFT   &none  &kp CAPS  &none  AS(GRAVE)                    &kp SPACE  &kp BACKSPACE  &kp LCMD                           &kp RCMD    &kp TAB  &kp ENTER          AS(LBKT)   AS(RBKT)  &kp LEFT  &kp DOWN  &kp RIGHT
             >;
         };
 
