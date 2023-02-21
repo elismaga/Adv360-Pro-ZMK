@@ -42,7 +42,7 @@
             bindings = <
                 &kp CAPSLOCK  AS(N1)    AS(N2)    AS(N3)     AS(N4)  AS(N5)               &tog 1                                                                             &mo 3  AS(N6)    AS(N7)     AS(N8)    AS(N9)    AS(N0)  AS(MINUS)
                 &kp ESCAPE   AS(Q)     AS(W)     AS(E)      AS(R)   AS(T)                &none                                                                             &none   AS(Y)     AS(U)      AS(I)     AS(O)     AS(P)   AS(BSLH)
-                AS(GRAVE)   AS(A)     AS(S)     AS(D)      AS(F)   AS(G)                &none      &kp LCTRL  &kp LALT                    &kp C_VOLUME_UP  &kp RCTRL      &none   AS(H)     AS(J)      AS(K)     AS(L)  AS(SEMI)    AS(SQT)
+                AS(GRAVE)   AS(A)     AS(S)     AS(D)      AS(F)   AS(G)                &none      &kp LCTRL  &kp LALT                    &kp C_VOLUME_UP  &kp LS(LG(A))      &none   AS(H)     AS(J)      AS(K)     AS(L)  AS(SEMI)    AS(SQT)
                 AS(EQUAL)   AS(Z)     AS(X)     AS(C)      AS(V)   AS(B)                &none          &none  &kp HOME   &none   &none  &kp C_VOLUME_DOWN      &none      &none   AS(N)     AS(M)  AS(COMMA)   AS(DOT)    &kp UP   AS(FSLH)
                 &kp LEFT_SHIFT   &none  &kp CAPS  &none  AS(GRAVE)                    &kp SPACE  &kp BACKSPACE  &kp LCMD                           &kp RCMD    &kp TAB  &kp ENTER          AS(LBKT)   AS(RBKT)  &kp LEFT  &kp DOWN  &kp RIGHT
             >;
